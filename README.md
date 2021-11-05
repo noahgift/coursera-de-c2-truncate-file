@@ -1,4 +1,4 @@
-# coursera-de-c2-lab1-linux
+# coursera-de-c2-truncate-file
 Using Linux Lab
 
 ## Goal:  Truncate file with Bash
